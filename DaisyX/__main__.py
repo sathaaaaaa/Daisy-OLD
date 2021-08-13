@@ -65,7 +65,7 @@ from DaisyX.modules.helper_funcs.readable_time import get_readable_time
 PM_START_TEXT = """
 Hello there, I'm [Zorase](https://telegra.ph/file/473cc17913393959e0667.jpg)
 
-I am an 𝐴𝑛𝑖𝑚𝑒 Themed Group Managing Bot and I will help in managing your group
+I am an Anime Themed Group Managing Bot and I will help in managing your group
 
 ✪ Make sure you read *INFO* Section Below ✪ 
 """
